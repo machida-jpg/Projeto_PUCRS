@@ -45,10 +45,10 @@ MiniMercado/
 #### Links
 
 **Repositório com os códigos-fonte:**  
-  [https://github.com/SEU_USUARIO/minimercado](https://github.com/SEU_USUARIO/minimercado)
+https://github.com/machida-jpg/Projeto_PUCRS
 
 **Site publicado no GitHub Pages:**  
-  [https://SEU_USUARIO.github.io/minimercado](https://SEU_USUARIO.github.io/minimercado)
+https://machida-jpg.github.io/Projeto_PUCRS/
 
 
 ---
