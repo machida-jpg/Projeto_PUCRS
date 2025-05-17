@@ -32,13 +32,14 @@ Criar uma estrutura de website para um minimercado, contendo:
 #### Estrutura de Arquivos
 
 MiniMercado/
-├── index.html
-├── produtos.html
-├── frutas-e-verduras.html
-├── nao-pereciveis.html
-├── higiene-e-limpeza.html
-├── servicos.html
-└── imagens
+
+📄 index.html
+📄 produtos.html
+📄 frutas-e-verduras.html
+📄 nao-pereciveis.html
+📄 higiene-e-limpeza.html
+📄 servicos.html
+📁 imagens
 
 
 #### Links
@@ -54,7 +55,8 @@ MiniMercado/
 
 #### Autor
 
-Desenvolvido por Carolina Machida
+Desenvolvido por Carolina Machida 
+
 Contato: carolinamachida@gmail.com  
 Telefone: (51) 98938-9013
 
