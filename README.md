@@ -31,12 +31,12 @@ Criar uma estrutura de website para um minimercado, contendo:
 
 #### Estrutura de Arquivos
 
-index.html --> Página inicial
-produtos.html --> Visão geral das categorias
-frutas_verduras.html --> Lista de frutas e verduras
-nao_pereciveis.html --> Lista de alimentos não perecíveis
-higiene_limpeza.html --> Lista de produtos de higiene e limpeza
-servicos.html --> Descrição dos serviços oferecidos
+"index.html" --> Página inicial
+"produtos.html" --> Visão geral das categorias
+"frutas_verduras.html" --> Lista de frutas e verduras
+"nao_pereciveis.html" --> Lista de alimentos não perecíveis
+"higiene_limpeza.html" --> Lista de produtos de higiene e limpeza
+"servicos.html" --> Descrição dos serviços oferecidos
 imagens(pasta) --> Contém todas as imagens utilizadas
 ---
 
