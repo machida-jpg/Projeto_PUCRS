@@ -31,24 +31,24 @@ Criar uma estrutura de website para um minimercado, contendo:
 
 #### Estrutura de Arquivos
 
-"index.html" --> Página inicial
-"produtos.html" --> Visão geral das categorias
-"frutas_verduras.html" --> Lista de frutas e verduras
-"nao_pereciveis.html" --> Lista de alimentos não perecíveis
-"higiene_limpeza.html" --> Lista de produtos de higiene e limpeza
-"servicos.html" --> Descrição dos serviços oferecidos
-imagens(pasta) --> Contém todas as imagens utilizadas
----
+MiniMercado/
+├── index.html
+├── produtos.html
+├── frutas-e-verduras.html
+├── nao-pereciveis.html
+├── higiene-e-limpeza.html
+├── servicos.html
+└── imagens
+
 
 #### Links
 
-- 🔎 **Repositório com os códigos-fonte:**  
+**Repositório com os códigos-fonte:**  
   [https://github.com/SEU_USUARIO/minimercado](https://github.com/SEU_USUARIO/minimercado)
 
-- 🌐 **Site publicado no GitHub Pages:**  
+**Site publicado no GitHub Pages:**  
   [https://SEU_USUARIO.github.io/minimercado](https://SEU_USUARIO.github.io/minimercado)
 
-_(Substitua "SEU_USUARIO" pelo seu nome de usuário no GitHub.)_
 
 ---
 
